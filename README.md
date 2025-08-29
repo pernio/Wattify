@@ -1,2 +1,2 @@
 # Wattify
-Browser extension to tweak the Wattpad platform
+Browser extension for Wattpad
